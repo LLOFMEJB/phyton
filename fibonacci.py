@@ -5,3 +5,5 @@ while i < 56:
     fib_list.append(ran_list[i])
     i += i
 print(fib_list)
+
+#try def function

@@ -5,4 +5,4 @@ immune = input("Is your immune system too weak? : ").capitalize()
 if (age == "Yes") or (chronic == "Yes") or (immune == "Yes"):
    print("You are in risky group!")
 else:
-    print("You are not in risky group!")
+    print("You are not in risky group at all!")
