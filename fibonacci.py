@@ -1,9 +1,8 @@
 ran_list = list(range(1,56))
 fib_list = []
 i = 0
-while i < 56:
-    fib_list.append(ran_list[i])
-    i += i
+def fibon(x,y,z):
+    
 print(fib_list)
 
 #try def function
