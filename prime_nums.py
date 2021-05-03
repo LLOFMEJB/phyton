@@ -7,5 +7,3 @@ if len(prime) == 2:
     print(number, " is a prime number!")
 else:
     print(number, " is not a prime number!")
-    
-#https://github.com/LLOFMEJB/phyton.git
